@@ -24,5 +24,5 @@
 ## 仓库说明
 Github Project Pages (for self-learning only)
 ## 本文语法参考了……
-* [ ](https://www.jianshu.com/p/7b1ab512fb36)
+* [](https://www.jianshu.com/p/7b1ab512fb36)
 
