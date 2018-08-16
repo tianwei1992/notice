@@ -22,4 +22,7 @@
 * 90后
 * [我的github链接](https://github.com/tianwei1992)  ~~敬请不要关注~~
 ## 仓库说明
-Github Project Pages (for self-learning only）
+Github Project Pages (for self-learning only)
+## 本文语法参考了……
+* [ ](https://www.jianshu.com/p/7b1ab512fb36)
+
