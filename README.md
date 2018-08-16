@@ -4,9 +4,10 @@
 打开支付宝首页搜索“520308955”，即可领红包
 ### 红包图片
 <center>
-<img src="red.jpg" width ="25%"/>
+<img src="red.jpg" width ="25%" />
 支付宝扫一扫领取红包
 </center>
+
 ## 为什么会有这个仓库
 1. 推广红包
 2. **练习Markdown**
